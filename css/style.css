@@ -111,7 +111,7 @@ footer{
         margin-left: -80px;
     }
     h1{
-        font-size: 18px;
+        font-size: 100%;
     }
     .pictures{
         flex-direction: column;
